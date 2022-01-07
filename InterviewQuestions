@@ -1,0 +1,19 @@
+Interview Questions on 
+Google Bigquery
+1. Explain the Google bigquery architecture
+2. What are slots
+3. What is partioning and clustering
+4. When do we use partitioning and when do we use clustering
+5. Does big query recommends joins? 
+6. Explain the flow of reading data from cloud storage to loading it in big query. Efficient data pipeline. 
+7. Does the large .CSV file break into parts when it is loaded in big query. Does this happen manually or due to a code. 
+8. Given department Id and male and female when gender is not equal to male.
+
+Questions on python
+1. Explain oops concept in python.
+2. Explain generator in python
+4. Explain iterator in python.
+5. What is list comprehension 
+6. What is lambda function in python
+5. Have you used docker compose. 
+6. How comfortable are you in airflow dags. 
