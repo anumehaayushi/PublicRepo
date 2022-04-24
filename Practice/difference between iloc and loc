@@ -1,0 +1,16 @@
+The main distinction between loc and iloc is: 
+loc is label-based, which means that you have to specify rows and columns based on their row and column labels.
+iloc is integer position-based, so you have to specify rows and columns by their integer position values (0-based integer position)
+
+
+loc() : loc() is label based data selecting method which means that we have to pass the name of the row or column which we want to select. 
+This method includes the last element of the range passed in it.
+loc() can accept the boolean data unlike iloc() .
+
+The main distinction between the two methods is:
+
+loc gets rows (and/or columns) with particular labels.
+
+iloc gets rows (and/or columns) at integer locations.
+
+https://stackoverflow.com/questions/31593201/how-are-iloc-and-loc-different
