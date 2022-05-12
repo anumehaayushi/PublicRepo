@@ -1,0 +1,138 @@
+What is Machine Learning?
+
+A computer program is said to learn with experience E, on class of tasks T with performace measure P, 
+when its performance P on tasks T improves with experience E
+
+A computer program is said to learn with experience E with respect to some class of tasks T and performance measure P,
+if its performance at tasks in T as measured by P improves with E.
+
+Machine learning is a process by which a computer learns without being explicitly programmed.
+
+What are the types of machine learning?
+1. Supervised learning
+2. Unsupervised learning
+
+What is supervised learning?
+When we have labelled data to be fed to a model. 
+When a machine learns based on the labeled data provided to it. 
+labelled data is used for classification and regression problems
+
+What is Unsupervised learning?
+In Unsupervised learning we donot have labelled data. We have data and we let the program/machine to tell us the pattern. Eg- K means clustering
+
+Clusters are formed based on the data fed to the model. 
+Unsupervised learning also give classes or it can provide us with classification- but here the classes are not specified by the user.
+
+
+What is a classification problem?
+When you have predefined classes - eg- images of cats, images of dogs, speech emotion recognition- happy, angry
+So here the data belongs to one of these classes.
+The labelled data helps the model to learn to which of the class data belongs to. 
+So that when a new data is fed to the model - it is able to correctly classify it and provide the classification output.
+- ie. this is a cat, this is a dog. This emotion in the speech -- happy
+Eg of model- SVM classifier, MLP classifier. 
+
+What is regrssion problem?
+When we have labelled data, and the data is a continuous value and the target/ label is also a continuous value, 
+for eg- house prices based on sq ft. Here we can predict the house price of a new house, if we are provided with latitude, longitude, sq feet. 
+Eg of model - linear regression, Xg boost regression
+
+
+Types of models:
+Simple classical models-
+1. SVM classifier
+2. Linear regression
+3. Logistic regression -- is used for classification
+4. SVM regressor
+
+Models based on Neural Networks:
+
+Some problems which cannot be classified using classical models -- then we need to stimulate the neural network which are designed based on the human nervous system - 
+we have activation function - just like we get trigges in human brain
+
+These are few egs of Neural Network models:
+1. ANN- Artificial Neural Network - eg MLP - Multilayer perceptron
+2. RNN - Recurrent Neural Network - eg LSTM -Long Short term Memory
+3. CNN - Convulutional Neural Network -
+4. DNN - Deep Neural Network 
+
+So in DNN, ANN, RNN -- we have activation function
+1. Relu - Rectified Linear Unit - giving 0 or 1
+2. Softmax- giving a continuous value between [0, x]
+
+
+Feedforward Neural Network
+
+
+Reinforcement learning:
+model gives an output and model is rewarded for giving correct output
+
+Deep Reinforcement learning: 
+Neural network and feedback
+
+
+How do you measure/ evaluate a model?
+RMSE - root mean square error
+MSE - mean square error
+MAE - mean absolute error
+
+what is training set, validation set, and test set. 
+The data which is fed to the model for training - is training set. 
+Validation set - for tuning and hypertuning the model
+Test set - for testing the accuracy , error of the model 
+
+It is important to understand how well the model is performing. What is the error or differnce between the model output and actual output?
+So this is done using a validation set. / test set.
+
+MSE - mean square error - is the difference of square of the mean and the actual output 
+RMSE 
+Mean Absolute error -
+
+
+What is AUC?
+Area Under the Curve
+
+What is Precision
+What is Recall?
+what is Accuracy?
+
+
+How do you clean the data?
+Data imputation?
+What are categorical features?
+What is one hot encoding? What is binary encoding?
+how does one hot encoding help?
+
+
+What is z score?
+What is chi square ?
+What is kernel?
+what is threshhold?
+
+What is the use of linear algebra?
+What is the use of matrix?
+What is a vector?
+What is a scalar?
+
+What is underfitting?
+The model has high error on test and the train set. In order to solve underfitting -- we need to add more features to the model.
+Model is not trained enough to identify or give a correct output. 
+What is overfitting?
+Model performs well on the training set, but fails to perform well on the test set. The model is not a generalised one.
+
+What is bias?
+What is variance?
+What is optimization?
+what is linear optimization?
+What are various optimization techniques?
+What is pulp model?
+
+
+What is model drift?
+What is cocept drift?
+What is data drift?
+
+
+How would you join ? SQl for data science?
+Draw plots?
+Visualization of the model
