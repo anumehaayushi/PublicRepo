@@ -1,13 +1,20 @@
 BIG DATA - IBM
 
 Overview
-Big data analytics is the use of advanced analytic techniques against very large, diverse big data sets that include structured, semi-structured and unstructured data, from different sources, and in different sizes from terabytes to zettabytes.
+Big data analytics is the use of advanced analytic techniques against very large, 
+diverse big data sets that include structured, semi-structured and unstructured data, from different sources, and in different sizes from terabytes to zettabytes.
 
-What is big data exactly? It can be defined as data sets whose size or type is beyond the ability of traditional relational databases to capture, manage and process the data with low latency. Characteristics of big data include high volume, high velocity and high variety. Sources of data are becoming more complex than those for traditional data because they are being driven by artificial intelligence (AI), mobile devices, social media and the Internet of Things (IoT). For example, the different types of data originate from sensors, devices, video/audio, networks, log files, transactional applications, web and social media — much of it generated in real time and at a very large scale.
+What is big data exactly? 
+It can be defined as data sets whose size or type is beyond the ability of traditional relational databases to capture, 
+manage and process the data with low latency. Characteristics of big data include high volume, high velocity and high variety. 
+Sources of data are becoming more complex than those for traditional data because they are being driven by artificial intelligence (AI), 
+mobile devices, social media and the Internet of Things (IoT). 
+For example, the different types of data originate from sensors, devices, video/audio, networks, log files, transactional applications, 
+web and social media — much of it generated in real time and at a very large scale.
 
-With big data analytics, you can ultimately fuel better and faster decision-making, modelling and predicting of future outcomes and enhanced business intelligence. As you build your big data solution, consider open source software such as Apache Hadoop, Apache Spark and the entire Hadoop ecosystem as cost-effective, flexible data processing and storage tools designed to handle the volume of data being generated today.
-
-
+With big data analytics, you can ultimately fuel better and faster decision-making, modelling and predicting of future outcomes and enhanced business intelligence. 
+As you build your big data solution, consider open source software such as Apache Hadoop, Apache Spark and the entire Hadoop ecosystem as cost-effective, 
+flexible data processing and storage tools designed to handle the volume of data being generated today.
 
 ============================================================================================
 
@@ -19,20 +26,33 @@ What exactly is big data?
 
 The definition of big data is data that contains greater variety, arriving in increasing volumes and with more velocity. This is also known as the three Vs.
 
-Put simply, big data is larger, more complex data sets, especially from new data sources. These data sets are so voluminous that traditional data processing software just can’t manage them. But these massive volumes of data can be used to address business problems you wouldn’t have been able to tackle before.
+Put simply, big data is larger, more complex data sets, especially from new data sources. 
+These data sets are so voluminous that traditional data processing software just can’t manage them. 
+But these massive volumes of data can be used to address business problems you wouldn’t have been able to tackle before.
 
 The three Vs of big data
-Volume	The amount of data matters. With big data, you’ll have to process high volumes of low-density, unstructured data. This can be data of unknown value, such as Twitter data feeds, clickstreams on a web page or a mobile app, or sensor-enabled equipment. For some organizations, this might be tens of terabytes of data. For others, it may be hundreds of petabytes.
-Velocity	Velocity is the fast rate at which data is received and (perhaps) acted on. Normally, the highest velocity of data streams directly into memory versus being written to disk. Some internet-enabled smart products operate in real time or near real time and will require real-time evaluation and action.
-Variety	Variety refers to the many types of data that are available. Traditional data types were structured and fit neatly in a relational database. With the rise of big data, data comes in new unstructured data types. Unstructured and semistructured data types, such as text, audio, and video, require additional preprocessing to derive meaning and support metadata.
+Volume:	The amount of data matters. With big data, you’ll have to process high volumes of low-density, unstructured data. 
+This can be data of unknown value, such as Twitter data feeds, clickstreams on a web page or a mobile app, or sensor-enabled equipment. 
+For some organizations, this might be tens of terabytes of data. For others, it may be hundreds of petabytes.
+Velocity:	Velocity is the fast rate at which data is received and (perhaps) acted on. 
+Normally, the highest velocity of data streams directly into memory versus being written to disk. 
+Some internet-enabled smart products operate in real time or near real time and will require real-time evaluation and action.
+Variety:	Variety refers to the many types of data that are available. 
+Traditional data types were structured and fit neatly in a relational database.
+With the rise of big data, data comes in new unstructured data types. Unstructured and semistructured data types, such as text, audio, and video, require additional preprocessing to derive meaning and support metadata.
 The value—and truth—of big data
-Two more Vs have emerged over the past few years: value and veracity. Data has intrinsic value. But it’s of no use until that value is discovered. Equally important: How truthful is your data—and how much can you rely on it?
+Two more Vs have emerged over the past few years: value and veracity. 
+Data has intrinsic value. But it’s of no use until that value is discovered. 
+Equally important: How truthful is your data—and how much can you rely on it?
 
-Today, big data has become capital. Think of some of the world’s biggest tech companies. A large part of the value they offer comes from their data, which they’re constantly analyzing to produce more efficiency and develop new products.
+Today, big data has become capital. Think of some of the world’s biggest tech companies. 
+A large part of the value they offer comes from their data, which they’re constantly analyzing to produce more efficiency and develop new products.
 
-Recent technological breakthroughs have exponentially reduced the cost of data storage and compute, making it easier and less expensive to store more data than ever before. With an increased volume of big data now cheaper and more accessible, you can make more accurate and precise business decisions.
+Recent technological breakthroughs have exponentially reduced the cost of data storage and compute, 
+making it easier and less expensive to store more data than ever before. With an increased volume of big data now cheaper and more accessible, you can make more accurate and precise business decisions.
 
-Finding value in big data isn’t only about analyzing it (which is a whole other benefit). It’s an entire discovery process that requires insightful analysts, business users, and executives who ask the right questions, recognize patterns, make informed assumptions, and predict behavior.
+Finding value in big data isn’t only about analyzing it (which is a whole other benefit). 
+It’s an entire discovery process that requires insightful analysts, business users, and executives who ask the right questions, recognize patterns, make informed assumptions, and predict behavior.
 
 But how did we get here?
 
