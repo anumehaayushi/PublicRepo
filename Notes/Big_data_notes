@@ -1,0 +1,255 @@
+BIG DATA - IBM
+
+Overview
+Big data analytics is the use of advanced analytic techniques against very large, diverse big data sets that include structured, semi-structured and unstructured data, from different sources, and in different sizes from terabytes to zettabytes.
+
+What is big data exactly? It can be defined as data sets whose size or type is beyond the ability of traditional relational databases to capture, manage and process the data with low latency. Characteristics of big data include high volume, high velocity and high variety. Sources of data are becoming more complex than those for traditional data because they are being driven by artificial intelligence (AI), mobile devices, social media and the Internet of Things (IoT). For example, the different types of data originate from sensors, devices, video/audio, networks, log files, transactional applications, web and social media — much of it generated in real time and at a very large scale.
+
+With big data analytics, you can ultimately fuel better and faster decision-making, modelling and predicting of future outcomes and enhanced business intelligence. As you build your big data solution, consider open source software such as Apache Hadoop, Apache Spark and the entire Hadoop ecosystem as cost-effective, flexible data processing and storage tools designed to handle the volume of data being generated today.
+
+
+
+============================================================================================
+
+ORACLE- Big DATA
+
+What is Big Data?
+Big data defined
+What exactly is big data?
+
+The definition of big data is data that contains greater variety, arriving in increasing volumes and with more velocity. This is also known as the three Vs.
+
+Put simply, big data is larger, more complex data sets, especially from new data sources. These data sets are so voluminous that traditional data processing software just can’t manage them. But these massive volumes of data can be used to address business problems you wouldn’t have been able to tackle before.
+
+The three Vs of big data
+Volume	The amount of data matters. With big data, you’ll have to process high volumes of low-density, unstructured data. This can be data of unknown value, such as Twitter data feeds, clickstreams on a web page or a mobile app, or sensor-enabled equipment. For some organizations, this might be tens of terabytes of data. For others, it may be hundreds of petabytes.
+Velocity	Velocity is the fast rate at which data is received and (perhaps) acted on. Normally, the highest velocity of data streams directly into memory versus being written to disk. Some internet-enabled smart products operate in real time or near real time and will require real-time evaluation and action.
+Variety	Variety refers to the many types of data that are available. Traditional data types were structured and fit neatly in a relational database. With the rise of big data, data comes in new unstructured data types. Unstructured and semistructured data types, such as text, audio, and video, require additional preprocessing to derive meaning and support metadata.
+The value—and truth—of big data
+Two more Vs have emerged over the past few years: value and veracity. Data has intrinsic value. But it’s of no use until that value is discovered. Equally important: How truthful is your data—and how much can you rely on it?
+
+Today, big data has become capital. Think of some of the world’s biggest tech companies. A large part of the value they offer comes from their data, which they’re constantly analyzing to produce more efficiency and develop new products.
+
+Recent technological breakthroughs have exponentially reduced the cost of data storage and compute, making it easier and less expensive to store more data than ever before. With an increased volume of big data now cheaper and more accessible, you can make more accurate and precise business decisions.
+
+Finding value in big data isn’t only about analyzing it (which is a whole other benefit). It’s an entire discovery process that requires insightful analysts, business users, and executives who ask the right questions, recognize patterns, make informed assumptions, and predict behavior.
+
+But how did we get here?
+
+The history of big data
+Although the concept of big data itself is relatively new, the origins of large data sets go back to the 1960s and ‘70s when the world of data was just getting started with the first data centers and the development of the relational database.
+
+Around 2005, people began to realize just how much data users generated through Facebook, YouTube, and other online services. Hadoop (an open-source framework created specifically to store and analyze big data sets) was developed that same year. NoSQL also began to gain popularity during this time.
+
+The development of open-source frameworks, such as Hadoop (and more recently, Spark) was essential for the growth of big data because they make big data easier to work with and cheaper to store. In the years since then, the volume of big data has skyrocketed. Users are still generating huge amounts of data—but it’s not just humans who are doing it.
+
+With the advent of the Internet of Things (IoT), more objects and devices are connected to the internet, gathering data on customer usage patterns and product performance. The emergence of machine learning has produced still more data.
+
+While big data has come far, its usefulness is only just beginning. Cloud computing has expanded big data possibilities even further. The cloud offers truly elastic scalability, where developers can simply spin up ad hoc clusters to test a subset of data. And graph databases are becoming increasingly important as well, with their ability to display massive amounts of data in a way that makes analytics fast and comprehensive.
+
+
+Big data benefits:
+
+Big data makes it possible for you to gain more complete answers because you have more information.
+More complete answers mean more confidence in the data—which means a completely different approach to tackling problems.
+Big data use cases
+Big data can help you address a range of business activities, from customer experience to analytics. Here are just a few.
+
+Product development	Companies like Netflix and Procter & Gamble use big data to anticipate customer demand. They build predictive models for new products and services by classifying key attributes of past and current products or services and modeling the relationship between those attributes and the commercial success of the offerings. In addition, P&G uses data and analytics from focus groups, social media, test markets, and early store rollouts to plan, produce, and launch new products.
+Predictive maintenance	Factors that can predict mechanical failures may be deeply buried in structured data, such as the year, make, and model of equipment, as well as in unstructured data that covers millions of log entries, sensor data, error messages, and engine temperature. By analyzing these indications of potential issues before the problems happen, organizations can deploy maintenance more cost effectively and maximize parts and equipment uptime.
+Customer experience	The race for customers is on. A clearer view of customer experience is more possible now than ever before. Big data enables you to gather data from social media, web visits, call logs, and other sources to improve the interaction experience and maximize the value delivered. Start delivering personalized offers, reduce customer churn, and handle issues proactively.
+Fraud and compliance	When it comes to security, it’s not just a few rogue hackers—you’re up against entire expert teams. Security landscapes and compliance requirements are constantly evolving. Big data helps you identify patterns in data that indicate fraud and aggregate large volumes of information to make regulatory reporting much faster.
+Machine learning	Machine learning is a hot topic right now. And data—specifically big data—is one of the reasons why. We are now able to teach machines instead of program them. The availability of big data to train machine learning models makes that possible.
+Operational efficiency	Operational efficiency may not always make the news, but it’s an area in which big data is having the most impact. With big data, you can analyze and assess production, customer feedback and returns, and other factors to reduce outages and anticipate future demands. Big data can also be used to improve decision-making in line with current market demand.
+Drive innovation	Big data can help you innovate by studying interdependencies among humans, institutions, entities, and process and then determining new ways to use those insights. Use data insights to improve decisions about financial and planning considerations. Examine trends and what customers want to deliver new products and services. Implement dynamic pricing. There are endless possibilities.
+Big data challenges
+While big data holds a lot of promise, it is not without its challenges.
+
+First, big data is…big. Although new technologies have been developed for data storage, data volumes are doubling in size about every two years. Organizations still struggle to keep pace with their data and find ways to effectively store it.
+
+But it’s not enough to just store the data. Data must be used to be valuable and that depends on curation. Clean data, or data that’s relevant to the client and organized in a way that enables meaningful analysis, requires a lot of work. Data scientists spend 50 to 80 percent of their time curating and preparing data before it can actually be used.
+
+Finally, big data technology is changing at a rapid pace. A few years ago, Apache Hadoop was the popular technology used to handle big data. Then Apache Spark was introduced in 2014. Today, a combination of the two frameworks appears to be the best approach. Keeping up with big data technology is an ongoing challenge.
+
+Discover more big data resources:
+
+How big data works
+Big data gives you new insights that open up new opportunities and business models. Getting started involves three key actions:
+
+1.  Integrate
+Big data brings together data from many disparate sources and applications. Traditional data integration mechanisms, such as extract, transform, and load (ETL) generally aren’t up to the task. It requires new strategies and technologies to analyze big data sets at terabyte, or even petabyte, scale.
+
+During integration, you need to bring in the data, process it, and make sure it’s formatted and available in a form that your business analysts can get started with.
+
+2.  Manage
+Big data requires storage. Your storage solution can be in the cloud, on premises, or both. You can store your data in any form you want and bring your desired processing requirements and necessary process engines to those data sets on an on-demand basis. Many people choose their storage solution according to where their data is currently residing. The cloud is gradually gaining popularity because it supports your current compute requirements and enables you to spin up resources as needed.
+
+3.  Analyze
+Your investment in big data pays off when you analyze and act on your data. Get new clarity with a visual analysis of your varied data sets. Explore the data further to make new discoveries. Share your findings with others. Build data models with machine learning and artificial intelligence. Put your data to work.
+
+Big data best practices
+To help you on your big data journey, we’ve put together some key best practices for you to keep in mind. Here are our guidelines for building a successful big data foundation.
+
+Align big data with specific business goals	More extensive data sets enable you to make new discoveries. To that end, it is important to base new investments in skills, organization, or infrastructure with a strong business-driven context to guarantee ongoing project investments and funding. To determine if you are on the right track, ask how big data supports and enables your top business and IT priorities. Examples include understanding how to filter web logs to understand ecommerce behavior, deriving sentiment from social media and customer support interactions, and understanding statistical correlation methods and their relevance for customer, product, manufacturing, and engineering data.
+Ease skills shortage with standards and governance	One of the biggest obstacles to benefiting from your investment in big data is a skills shortage. You can mitigate this risk by ensuring that big data technologies, considerations, and decisions are added to your IT governance program. Standardizing your approach will allow you to manage costs and leverage resources. Organizations implementing big data solutions and strategies should assess their skill requirements early and often and should proactively identify any potential skill gaps. These can be addressed by training/cross-training existing resources, hiring new resources, and leveraging consulting firms.
+Optimize knowledge transfer with a center of excellence	Use a center of excellence approach to share knowledge, control oversight, and manage project communications. Whether big data is a new or expanding investment, the soft and hard costs can be shared across the enterprise. Leveraging this approach can help increase big data capabilities and overall information architecture maturity in a more structured and systematic way.
+Top payoff is aligning unstructured with structured data	
+It is certainly valuable to analyze big data on its own. But you can bring even greater business insights by connecting and integrating low density big data with the structured data you are already using today.
+
+Whether you are capturing customer, product, equipment, or environmental big data, the goal is to add more relevant data points to your core master and analytical summaries, leading to better conclusions. For example, there is a difference in distinguishing all customer sentiment from that of only your best customers. Which is why many see big data as an integral extension of their existing business intelligence capabilities, data warehousing platform, and information architecture.
+
+Keep in mind that the big data analytical processes and models can be both human- and machine-based. Big data analytical capabilities include statistics, spatial analysis, semantics, interactive discovery, and visualization. Using analytical models, you can correlate different types and sources of data to make associations and meaningful discoveries.
+
+Plan your discovery lab for performance	
+Discovering meaning in your data is not always straightforward. Sometimes we don’t even know what we’re looking for. That’s expected. Management and IT needs to support this “lack of direction” or “lack of clear requirement.”
+
+At the same time, it’s important for analysts and data scientists to work closely with the business to understand key business knowledge gaps and requirements. To accommodate the interactive exploration of data and the experimentation of statistical algorithms, you need high-performance work areas. Be sure that sandbox environments have the support they need—and are properly governed.
+
+Align with the cloud operating model	Big data processes and users require access to a broad array of resources for both iterative experimentation and running production jobs. A big data solution includes all data realms including transactions, master data, reference data, and summarized data. Analytical sandboxes should be created on demand. Resource management is critical to ensure control of the entire data flow including pre- and post-processing, integration, in-database summarization, and analytical modeling. A well-planned private and public cloud provisioning and security strategy plays an integral role in supporting these changing requirements.
+Learn more about big data at Oracle
+Try a free big data workshop
+Infographic: How to Build Effective Data Lakes
+
+
+==========================================================================================
+
+What is Big Data? Introduction, Types, Characteristics, Examples
+David Taylor
+By
+David Taylor
+Updated
+March 26, 2022
+
+Before we go to introduction to Big Data, you first need to know
+What is Data?
+The quantities, characters, or symbols on which operations are performed by a computer, which may be stored and transmitted in the form of electrical signals and recorded on magnetic, optical, or mechanical recording media.
+
+Now, let’s learn Big Data definition
+
+What is Big Data?
+Big Data is a collection of data that is huge in volume, yet growing exponentially with time. It is a data with so large size and complexity that none of traditional data management tools can store it or process it efficiently. Big data is also a data but with huge size.
+
+In this Big Data analytics tutorial, you will learn,
+
+What is Data?
+What is Big Data?
+What is an Example of Big Data?
+Types Of Big Data
+Characteristics Of Big Data
+Advantages Of Big Data Processing
+What is Big Data?
+What is Big Data?
+
+
+
+
+
+What is an Example of Big Data?
+Following are some of the Big Data examples-
+
+The New York Stock Exchange is an example of Big Data that generates about one terabyte of new trade data per day.
+
+Example of Big Data
+Social Media
+
+The statistic shows that 500+terabytes of new data get ingested into the databases of social media site Facebook, every day. This data is mainly generated in terms of photo and video uploads, message exchanges, putting comments etc.
+
+Example of Big Data
+A single Jet engine can generate 10+terabytes of data in 30 minutes of flight time. With many thousand flights per day, generation of data reaches up to many Petabytes.
+
+Example of Big Data
+Types Of Big Data
+Following are the types of Big Data:
+
+Structured
+Unstructured
+Semi-structured
+Structured
+Any data that can be stored, accessed and processed in the form of fixed format is termed as a ‘structured’ data. Over the period of time, talent in computer science has achieved greater success in developing techniques for working with such kind of data (where the format is well known in advance) and also deriving value out of it. However, nowadays, we are foreseeing issues when a size of such data grows to a huge extent, typical sizes are being in the rage of multiple zettabytes.
+
+Do you know? 1021 bytes equal to 1 zettabyte or one billion terabytes forms a zettabyte.
+
+Looking at these figures one can easily understand why the name Big Data is given and imagine the challenges involved in its storage and processing.
+
+Do you know? Data stored in a relational database management system is one example of a ‘structured’ data.
+
+Examples Of Structured Data
+
+An ‘Employee’ table in a database is an example of Structured Data
+
+Employee_ID	Employee_Name	Gender	Department	Salary_In_lacs
+2365 	Rajesh Kulkarni 	Male 	Finance	650000
+3398 	Pratibha Joshi 	Female 	Admin 	650000
+7465 	Shushil Roy 	Male 	Admin 	500000
+7500 	Shubhojit Das 	Male 	Finance 	500000
+7699 	Priya Sane 	Female 	Finance 	550000
+Unstructured
+Any data with unknown form or the structure is classified as unstructured data. In addition to the size being huge, un-structured data poses multiple challenges in terms of its processing for deriving value out of it. A typical example of unstructured data is a heterogeneous data source containing a combination of simple text files, images, videos etc. Now day organizations have wealth of data available with them but unfortunately, they don’t know how to derive value out of it since this data is in its raw form or unstructured format.
+
+Examples Of Un-structured Data
+
+The output returned by ‘Google Search’
+
+Example Of Unstructured Data
+Example Of Un-structured Data
+
+
+
+Semi-structured
+Semi-structured data can contain both the forms of data. We can see semi-structured data as a structured in form but it is actually not defined with e.g. a table definition in relational DBMS. Example of semi-structured data is a data represented in an XML file.
+
+Examples Of Semi-structured Data
+
+Personal data stored in an XML file-
+
+<rec><name>Prashant Rao</name><sex>Male</sex><age>35</age></rec>
+<rec><name>Seema R.</name><sex>Female</sex><age>41</age></rec>
+<rec><name>Satish Mane</name><sex>Male</sex><age>29</age></rec>
+<rec><name>Subrato Roy</name><sex>Male</sex><age>26</age></rec>
+<rec><name>Jeremiah J.</name><sex>Male</sex><age>35</age></rec>
+Data Growth over the years
+
+Data Growth
+Data Growth over the years
+
+ Please note that web application data, which is unstructured, consists of log files, transaction history files etc. OLTP systems are built to work with structured data wherein data is stored in relations (tables).
+
+Characteristics Of Big Data
+Big data can be described by the following characteristics:
+
+Volume
+Variety
+Velocity
+Variability
+(i) Volume – The name Big Data itself is related to a size which is enormous. Size of data plays a very crucial role in determining value out of data. Also, whether a particular data can actually be considered as a Big Data or not, is dependent upon the volume of data. Hence, ‘Volume’ is one characteristic which needs to be considered while dealing with Big Data solutions.
+
+(ii) Variety – The next aspect of Big Data is its variety.
+
+Variety refers to heterogeneous sources and the nature of data, both structured and unstructured. During earlier days, spreadsheets and databases were the only sources of data considered by most of the applications. Nowadays, data in the form of emails, photos, videos, monitoring devices, PDFs, audio, etc. are also being considered in the analysis applications. This variety of unstructured data poses certain issues for storage, mining and analyzing data.
+
+(iii) Velocity – The term ‘velocity’ refers to the speed of generation of data. How fast the data is generated and processed to meet the demands, determines real potential in the data.
+
+Big Data Velocity deals with the speed at which data flows in from sources like business processes, application logs, networks, and social media sites, sensors, Mobile devices, etc. The flow of data is massive and continuous.
+
+(iv) Variability – This refers to the inconsistency which can be shown by the data at times, thus hampering the process of being able to handle and manage the data effectively.
+
+Advantages Of Big Data Processing
+Ability to process Big Data in DBMS brings in multiple benefits, such as-
+
+Businesses can utilize outside intelligence while taking decisions
+Access to social data from search engines and sites like facebook, twitter are enabling organizations to fine tune their business strategies.
+
+Improved customer service
+Traditional customer feedback systems are getting replaced by new systems designed with Big Data technologies. In these new systems, Big Data and natural language processing technologies are being used to read and evaluate consumer responses.
+
+Early identification of risk to the product/services, if any
+Better operational efficiency
+Big Data technologies can be used for creating a staging area or landing zone for new data before identifying what data should be moved to the data warehouse. In addition, such integration of Big Data technologies and data warehouse helps an organization to offload infrequently accessed data.
+
+Summary
+Big Data definition : Big Data meaning a data that is huge in size. Bigdata is a term used to describe a collection of data that is huge in size and yet growing exponentially with time.
+Big Data analytics examples includes stock exchanges, social media sites, jet engines, etc.
+Big Data could be 1) Structured, 2) Unstructured, 3) Semi-structured
+Volume, Variety, Velocity, and Variability are few Big Data characteristics
+Improved customer service, better operational efficiency, Better Decision Making are few advantages of Bigdata
+
